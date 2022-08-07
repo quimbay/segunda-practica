@@ -1,0 +1,2 @@
+//hola vamos hacer un console.log para responder un ejercicio 
+console.log(sumar(2,2));
